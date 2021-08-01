@@ -1,0 +1,5 @@
+#Arquivos ignorado no push
+
+modulos/
+*.zip
+*.rar
