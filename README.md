@@ -1,4 +1,4 @@
-<img src ="banner.JPG">
+<img src ="banner.jpg">
 
 # Paulo Araujo
 
