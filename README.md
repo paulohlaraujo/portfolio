@@ -10,7 +10,7 @@ Apesar de veterano na minha área de atuação, sou nível júnior em análise d
 ## Projetos:
 
 <span style="color:gray"> a) Projeto de análise concessão de cartão de crédito --> </span>
-https://github.com/paulohlaraujo/credit-score
+<a href="https://github.com/paulohlaraujo/credit-score">Veja no link</a>
 
 <span style="color:gray"> b) Projetos em PowerBI --> </span>
 https://drive.google.com/drive/u/0/folders/1Vk7mr6YZ9GpBZKIppahyT-MdYVAChA1V
