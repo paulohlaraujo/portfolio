@@ -8,8 +8,8 @@ Apesar de veterano na minha área de atuação, sou nível júnior em análise d
 
 ## Perfis profissionais
 
-LinkedIin --> <a href='https://www.linkedin.com/in/paulo-ara%C3%BAjolog%C3%ADstica/'>perfil</a>
-Kaggle --> <a href='https://www.kaggle.com/paulohlaraujo'>perfil</a>
+<p>LinkedIin --> <a href='https://www.linkedin.com/in/paulo-ara%C3%BAjolog%C3%ADstica/'>perfil</a></p>
+<p>Kaggle --> <a href='https://www.kaggle.com/paulohlaraujo'>perfil</a></p>
 
 
 
