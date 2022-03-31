@@ -6,6 +6,12 @@ Profissional em migração de carreira com mais de 16 anos de experiência em op
 Nesse portfólio apresento um pouco do que já desenvolvi na minha área e os primeiros projetos em DS.
 Apesar de veterano na minha área de atuação, sou nível júnior em análise de dados e estou focado em desenvolver bons projetos nessa nova área.
 
+## Perfis profissionais
+
+LinkedIin --> <a href='https://www.linkedin.com/in/paulo-ara%C3%BAjolog%C3%ADstica/'>perfil</a>
+Kaggle --> <a href='https://www.kaggle.com/paulohlaraujo'>perfil</a>
+
+
 
 ## Projetos:
 
