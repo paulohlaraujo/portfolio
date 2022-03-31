@@ -13,10 +13,10 @@ Apesar de veterano na minha área de atuação, sou nível júnior em análise d
 <a href="https://github.com/paulohlaraujo/credit-score">Veja no link</a>
 
 <span style="color:gray"> b) Projetos em PowerBI --> </span>
-https://drive.google.com/drive/u/0/folders/1Vk7mr6YZ9GpBZKIppahyT-MdYVAChA1V
+<a href='https://drive.google.com/drive/u/0/folders/1Vk7mr6YZ9GpBZKIppahyT-MdYVAChA1V'>Veja no link</a>
 
 <span style="color:gray"> b) Projetos em VBA --> </span>
-https://drive.google.com/drive/u/0/folders/1c4MQbII9dfXGuL81rXL9UjbvK6WM0qey
+<a href='https://drive.google.com/drive/u/0/folders/1c4MQbII9dfXGuL81rXL9UjbvK6WM0qey'>Veja no link</a>
 
 <span style="color:gray"> b) Projetos S&OP --> </span>
-https://drive.google.com/drive/u/0/folders/1DRLNKcnzpPKfFGRvS3ilm0P1M0ziGcPL
+<a href='https://drive.google.com/drive/u/0/folders/1DRLNKcnzpPKfFGRvS3ilm0P1M0ziGcPL'>Veja no link</a>
