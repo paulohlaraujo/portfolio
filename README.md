@@ -18,14 +18,17 @@ Apesar de veterano na minha área de atuação, sou nível júnior em análise d
 <span style="color:gray"> a) Projeto de análise concessão de cartão de crédito --> </span>
 <a href="https://github.com/paulohlaraujo/credit-score">Veja no link</a>
 
-<span style="color:gray"> b) Projeto de análise exploratória de dados --> </span>
+<span style="color:gray"> b) Projeto de análise exploratória de dados (Varejo) --> </span>
 <a href="https://github.com/paulohlaraujo/python/blob/fde031b4ae47ecb435abb46b319e61554867c7d6/projeto2_analiseexploratoria.ipynb">Veja no link</a>
 
-<span style="color:gray"> c) Projetos em PowerBI --> </span>
+<span style="color:gray"> c) Projeto análise exploratória de dados (Montreal Bike) --> </span>
+<a href="https://github.com/paulohlaraujo/python/blob/32a08f65f81ea89b982ccb288435b3d660f3f48e/project_4.ipynb">Veja no link</a>
+
+<span style="color:gray"> d) Projetos em PowerBI --> </span>
 <a href='https://drive.google.com/drive/u/0/folders/1Vk7mr6YZ9GpBZKIppahyT-MdYVAChA1V'>Veja no link</a>
 
-<span style="color:gray"> d) Projetos em VBA --> </span>
+<span style="color:gray"> e) Projetos em VBA --> </span>
 <a href='https://drive.google.com/drive/u/0/folders/1c4MQbII9dfXGuL81rXL9UjbvK6WM0qey'>Veja no link</a>
 
-<span style="color:gray"> e) Projetos S&OP --> </span>
+<span style="color:gray"> f) Projetos S&OP --> </span>
 <a href='https://drive.google.com/drive/u/0/folders/1DRLNKcnzpPKfFGRvS3ilm0P1M0ziGcPL'>Veja no link</a>
