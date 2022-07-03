@@ -19,7 +19,7 @@ Apesar de veterano na minha área de atuação, sou nível júnior em análise d
 <a href="https://github.com/paulohlaraujo/credit-score">Veja no link</a>
 
 <span style="color:gray"> b) Projeto de análise exploratória de dados (Varejo) --> </span>
-<a href="https://github.com/paulohlaraujo/python/blob/fde031b4ae47ecb435abb46b319e61554867c7d6/projeto2_analiseexploratoria.ipynb">Veja no link</a>
+<a href="https://github.com/paulohlaraujo/python/blob/b0cfce3c75352a5b015abd21102295b08e75afeb/projeto2_analiseexploratoria.ipynb">Veja no link</a>
 
 <span style="color:gray"> c) Projeto análise exploratória de dados (Montreal Bike) --> </span>
 <a href="https://github.com/paulohlaraujo/python/blob/32a08f65f81ea89b982ccb288435b3d660f3f48e/project_4.ipynb">Veja no link</a>
