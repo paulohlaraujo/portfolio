@@ -2,9 +2,8 @@
 
 # Paulo Araujo
 
-Profissional em migração de carreira com mais de 16 anos de experiência em operações de produção e logística.
-Nesse portfólio apresento um pouco do que já desenvolvi na minha área e os primeiros projetos em DS.
-Apesar de veterano na minha área de atuação, sou nível júnior em análise de dados e estou focado em desenvolver bons projetos nessa nova área.
+Hey there, I'm Paulo Araujo, data analyst in formation, but already experience in management of logistics, warehouse routines and schedule production. I have more than 16 years deal of analysis of inventory, transportation and operation procedures.
+I'm junior in data analysis, but senior in logistics. And that is a great opportunity to improve and sum up skills.
 
 ## Perfis profissionais
 
@@ -15,20 +14,20 @@ Apesar de veterano na minha área de atuação, sou nível júnior em análise d
 
 ## Projetos:
 
-<span style="color:gray"> a) Projeto de análise concessão de cartão de crédito --> </span>
+<span style="color:gray"> a) Credit analysis project --> </span>
 <a href="https://github.com/paulohlaraujo/credit-score">Veja no link</a>
 
-<span style="color:gray"> b) Projeto de análise exploratória de dados (Varejo) --> </span>
+<span style="color:gray"> b) Exploratory analysis to retail business --> </span>
 <a href="https://github.com/paulohlaraujo/python/blob/b0cfce3c75352a5b015abd21102295b08e75afeb/projeto2_analiseexploratoria.ipynb">Veja no link</a>
 
-<span style="color:gray"> c) Projeto análise exploratória de dados (Montreal Bike) --> </span>
+<span style="color:gray"> c) Exploratory analysis (Montreal Bike) --> </span>
 <a href="https://github.com/paulohlaraujo/python/blob/32a08f65f81ea89b982ccb288435b3d660f3f48e/project_4.ipynb">Veja no link</a>
 
-<span style="color:gray"> d) Projetos em PowerBI --> </span>
+<span style="color:gray"> d) PowerBI project --> </span>
 <a href='https://drive.google.com/drive/u/0/folders/1Vk7mr6YZ9GpBZKIppahyT-MdYVAChA1V'>Veja no link</a>
 
-<span style="color:gray"> e) Projetos em VBA --> </span>
+<span style="color:gray"> e) VBA project --> </span>
 <a href='https://drive.google.com/drive/u/0/folders/1c4MQbII9dfXGuL81rXL9UjbvK6WM0qey'>Veja no link</a>
 
-<span style="color:gray"> f) Projetos S&OP --> </span>
+<span style="color:gray"> f) S&OP project --> </span>
 <a href='https://drive.google.com/drive/u/0/folders/1DRLNKcnzpPKfFGRvS3ilm0P1M0ziGcPL'>Veja no link</a>
