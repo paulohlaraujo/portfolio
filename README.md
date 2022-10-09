@@ -15,19 +15,19 @@ I'm junior in data analysis, but senior in logistics. And that is a great opport
 ## Projetos:
 
 <span style="color:gray"> a) Credit analysis project --> </span>
-<a href="https://github.com/paulohlaraujo/credit-score">Veja no link</a>
+<a href="https://github.com/paulohlaraujo/credit-score">check out here</a>
 
 <span style="color:gray"> b) Exploratory analysis to retail business --> </span>
-<a href="https://github.com/paulohlaraujo/python/blob/b0cfce3c75352a5b015abd21102295b08e75afeb/projeto2_analiseexploratoria.ipynb">Veja no link</a>
+<a href="https://github.com/paulohlaraujo/python/blob/b0cfce3c75352a5b015abd21102295b08e75afeb/projeto2_analiseexploratoria.ipynb">check out here</a>
 
 <span style="color:gray"> c) Exploratory analysis (Montreal Bike) --> </span>
-<a href="https://github.com/paulohlaraujo/python/blob/32a08f65f81ea89b982ccb288435b3d660f3f48e/project_4.ipynb">Veja no link</a>
+<a href="https://github.com/paulohlaraujo/python/blob/32a08f65f81ea89b982ccb288435b3d660f3f48e/project_4.ipynb">check out here</a>
 
 <span style="color:gray"> d) PowerBI project --> </span>
-<a href='https://drive.google.com/drive/u/0/folders/1Vk7mr6YZ9GpBZKIppahyT-MdYVAChA1V'>Veja no link</a>
+<a href='https://drive.google.com/drive/u/0/folders/1Vk7mr6YZ9GpBZKIppahyT-MdYVAChA1V'>check out here</a>
 
 <span style="color:gray"> e) VBA project --> </span>
-<a href='https://drive.google.com/drive/u/0/folders/1c4MQbII9dfXGuL81rXL9UjbvK6WM0qey'>Veja no link</a>
+<a href='https://drive.google.com/drive/u/0/folders/1c4MQbII9dfXGuL81rXL9UjbvK6WM0qey'>check out here</a>
 
 <span style="color:gray"> f) S&OP project --> </span>
-<a href='https://drive.google.com/drive/u/0/folders/1DRLNKcnzpPKfFGRvS3ilm0P1M0ziGcPL'>Veja no link</a>
+<a href='https://drive.google.com/drive/u/0/folders/1DRLNKcnzpPKfFGRvS3ilm0P1M0ziGcPL'>check out here</a>
