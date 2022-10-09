@@ -7,8 +7,8 @@ I'm junior in data analysis, but senior in logistics. And that is a great opport
 
 ## Perfis profissionais
 
-<p>LinkedIin --> <a href='https://www.linkedin.com/in/paulo-ara%C3%BAjolog%C3%ADstica/'>perfil</a></p>
-<p>Kaggle --> <a href='https://www.kaggle.com/paulohlaraujo'>perfil</a></p>
+<p>LinkedIin --> <a href='https://www.linkedin.com/in/paulo-ara%C3%BAjolog%C3%ADstica/'>profile</a></p>
+<p>Kaggle --> <a href='https://www.kaggle.com/paulohlaraujo'>profile</a></p>
 
 
 
