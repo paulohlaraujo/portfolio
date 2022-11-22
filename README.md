@@ -14,7 +14,7 @@ Here you'll find out some of my projects I have been developing. Evidently all d
 
 ### Data analysis projects:
 
-<span style="color:blue"> a) Credit analysis project --> </span>
+a) Credit analysis project -->
 <a href="https://github.com/paulohlaraujo/credit-score">check out here</a>
 
 <span style="color:gray"> b) Exploratory analysis to retail business --> </span>
@@ -23,10 +23,10 @@ Here you'll find out some of my projects I have been developing. Evidently all d
 <span style="color:gray"> c) Exploratory analysis (Montreal Bike) --> </span>
 <a href="https://github.com/paulohlaraujo/python/blob/32a08f65f81ea89b982ccb288435b3d660f3f48e/project_4.ipynb">check out here</a>
 
-<font color=#FFEA00> e)**VBA project** --></font>
+<font color=#FFEA00> d) **VBA project** --></font>
 <a href='https://drive.google.com/drive/u/0/folders/1c4MQbII9dfXGuL81rXL9UjbvK6WM0qey'>check out here</a>
 
-`#FFEA00`f)**S&OP project** --></font>
+e) **S&OP project** --></font>
 <a href='https://drive.google.com/drive/u/0/folders/1DRLNKcnzpPKfFGRvS3ilm0P1M0ziGcPL'>check out here</a>
 
 ### Dataviz projects:
