@@ -1,13 +1,11 @@
-<img src ="banner.jpg">
-
-## Paulo Araujo
+## Paulo Araujo | Data Analyst
 
 Dear all, my name is Paulo Araujo, data analyst and logistics specialist with more than 17 years of experience in that field.
 Now taking my first steps into this new challenge in a consist and perseverient pace.
 
-Here you'll find out some of my projects I have been developing. Evidently all dashboards and scripts are running here with unreal dataset, for confident reasons, to some of them that was really applied in the companies that I worked in. That last ones it'll be check in yellow highlight.
+Here you'll find out some of my projects I have been developing. Evidently all dashboards and scripts are running here with unreal dataset, for confident reasons, to some of them that was really applied in the companies that I worked in. That last ones it'll be remarked with bold.
 
-### Professional profiles
+### Professional profiles:
 
 <p>LinkedIin --> <a href='https://www.linkedin.com/in/paulo-ara%C3%BAjolog%C3%ADstica/'>profile</a></p>
 <p>Kaggle --> <a href='https://www.kaggle.com/paulohlaraujo'>profile</a></p>
@@ -17,16 +15,16 @@ Here you'll find out some of my projects I have been developing. Evidently all d
 a) Credit analysis project -->
 <a href="https://github.com/paulohlaraujo/credit-score">check out here</a>
 
-<span style="color:gray"> b) Exploratory analysis to retail business --> </span>
+b) Exploratory analysis to retail business -->
 <a href="https://github.com/paulohlaraujo/python/blob/b0cfce3c75352a5b015abd21102295b08e75afeb/projeto2_analiseexploratoria.ipynb">check out here</a>
 
-<span style="color:gray"> c) Exploratory analysis (Montreal Bike) --> </span>
+c) Exploratory analysis (Montreal Bike) -->
 <a href="https://github.com/paulohlaraujo/python/blob/32a08f65f81ea89b982ccb288435b3d660f3f48e/project_4.ipynb">check out here</a>
 
-<font color=#FFEA00> d) **VBA project** --></font>
+d) **VBA project** -->
 <a href='https://drive.google.com/drive/u/0/folders/1c4MQbII9dfXGuL81rXL9UjbvK6WM0qey'>check out here</a>
 
-e) **S&OP project** --></font>
+e) **S&OP project** -->
 <a href='https://drive.google.com/drive/u/0/folders/1DRLNKcnzpPKfFGRvS3ilm0P1M0ziGcPL'>check out here</a>
 
 ### Dataviz projects:
