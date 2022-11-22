@@ -12,9 +12,7 @@ Here you'll find out some of my projects I have been developing. Evidently all d
 <p>LinkedIin --> <a href='https://www.linkedin.com/in/paulo-ara%C3%BAjolog%C3%ADstica/'>profile</a></p>
 <p>Kaggle --> <a href='https://www.kaggle.com/paulohlaraujo'>profile</a></p>
 
-
-
-## Projects:
+## Data analysis projects:
 
 <span style="color:gray"> a) Credit analysis project --> </span>
 <a href="https://github.com/paulohlaraujo/credit-score">check out here</a>
@@ -25,11 +23,13 @@ Here you'll find out some of my projects I have been developing. Evidently all d
 <span style="color:gray"> c) Exploratory analysis (Montreal Bike) --> </span>
 <a href="https://github.com/paulohlaraujo/python/blob/32a08f65f81ea89b982ccb288435b3d660f3f48e/project_4.ipynb">check out here</a>
 
-<span style="color:gray"> d) PowerBI project --> </span>
-<a href='https://drive.google.com/drive/u/0/folders/1Vk7mr6YZ9GpBZKIppahyT-MdYVAChA1V'>check out here</a>
-
-<font color="rgb(255, 234, 0)"> e) <strong>VBA project --> </strong></font>
+<font color="#FFEA00"> e) <strong>VBA project --> </strong></font>
 <a href='https://drive.google.com/drive/u/0/folders/1c4MQbII9dfXGuL81rXL9UjbvK6WM0qey'>check out here</a>
 
-<font color="rgb(255, 234, 0)"> f) <strong>S&OP project --> </strong></font>
+<font color="#FFEA00"> f) <strong>S&OP project --> </strong></font>
 <a href='https://drive.google.com/drive/u/0/folders/1DRLNKcnzpPKfFGRvS3ilm0P1M0ziGcPL'>check out here</a>
+
+## Dataviz projects:
+
+<span style="color:gray"> d) PowerBI project --> </span>
+<a href='https://drive.google.com/drive/u/0/folders/1Vk7mr6YZ9GpBZKIppahyT-MdYVAChA1V'>check out here</a>
