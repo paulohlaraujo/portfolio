@@ -1,18 +1,18 @@
 <img src ="banner.jpg">
 
-# Paulo Araujo
+## Paulo Araujo
 
 Dear all, my name is Paulo Araujo, data analyst and logistics specialist with more than 17 years of experience in that field.
 Now taking my first steps into this new challenge in a consist and perseverient pace.
 
 Here you'll find out some of my projects I have been developing. Evidently all dashboards and scripts are running here with unreal dataset, for confident reasons, to some of them that was really applied in the companies that I worked in. That last ones it'll be check in yellow highlight.
 
-## Professional profiles
+### Professional profiles
 
 <p>LinkedIin --> <a href='https://www.linkedin.com/in/paulo-ara%C3%BAjolog%C3%ADstica/'>profile</a></p>
 <p>Kaggle --> <a href='https://www.kaggle.com/paulohlaraujo'>profile</a></p>
 
-## Data analysis projects:
+### Data analysis projects:
 
 <span style="color:blue"> a) Credit analysis project --> </span>
 <a href="https://github.com/paulohlaraujo/credit-score">check out here</a>
@@ -26,10 +26,10 @@ Here you'll find out some of my projects I have been developing. Evidently all d
 <font color=#FFEA00> e)**VBA project** --></font>
 <a href='https://drive.google.com/drive/u/0/folders/1c4MQbII9dfXGuL81rXL9UjbvK6WM0qey'>check out here</a>
 
-<font color=#FFEA00> f)**S&OP project** --></font>
+`#FFEA00`f)**S&OP project** --></font>
 <a href='https://drive.google.com/drive/u/0/folders/1DRLNKcnzpPKfFGRvS3ilm0P1M0ziGcPL'>check out here</a>
 
-## Dataviz projects:
+### Dataviz projects:
 
 <span style="color:gray"> d) PowerBI project --> </span>
 <a href='https://drive.google.com/drive/u/0/folders/1Vk7mr6YZ9GpBZKIppahyT-MdYVAChA1V'>check out here</a>
