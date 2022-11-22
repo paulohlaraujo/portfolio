@@ -28,7 +28,7 @@ Here you'll find out some of my projects I have been developing. Evidently all d
 <span style="color:gray"> d) PowerBI project --> </span>
 <a href='https://drive.google.com/drive/u/0/folders/1Vk7mr6YZ9GpBZKIppahyT-MdYVAChA1V'>check out here</a>
 
-<span style="color:yellow"> e) VBA project --> </span>
+<span style="color:yellow"> e) <strong>VBA project --> </strong></span>
 <a href='https://drive.google.com/drive/u/0/folders/1c4MQbII9dfXGuL81rXL9UjbvK6WM0qey'>check out here</a>
 
 <span style="color:yellow"> f) S&OP project --> </span>
