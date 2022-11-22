@@ -14,7 +14,7 @@ Here you'll find out some of my projects I have been developing. Evidently all d
 
 ## Data analysis projects:
 
-<span style="color:gray"> a) Credit analysis project --> </span>
+<span style="color:blue"> a) Credit analysis project --> </span>
 <a href="https://github.com/paulohlaraujo/credit-score">check out here</a>
 
 <span style="color:gray"> b) Exploratory analysis to retail business --> </span>
