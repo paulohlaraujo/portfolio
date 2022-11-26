@@ -29,8 +29,11 @@ e) **S&OP project** -->
 
 ### Dataviz projects:
 
-<span style="color:gray"> d) PowerBI project | Freight dashboard --> </span>
+<span style="color:gray"> d) PowerBI project | Freight track--> </span>
 <a href='https://github.com/paulohlaraujo/files/blob/6cc8adcf03c5f34b86c08f3062bb61dbb9e5b354/freight_data.pbix'>check out here</a>
+
+<span style="color:gray"> d) PowerBI project | Freight cost--> </span>
+<a href='https://github.com/paulohlaraujo/files/blob/d1498061e4a62145dfebf018d2889d1597011269/freight_data.pbix'>check out here</a>
 
 ### Excel projects:
 
