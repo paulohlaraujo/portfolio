@@ -25,7 +25,7 @@ d) **VBA project** | bill conciliation sheet-->
 <a href='https://github.com/paulohlaraujo/files/blob/c88fde61f2d67a4d8b94eda749060159e7c53361/bill_conciliation.xlsm'>check out here</a>
 
 e) **S&OP project** -->
-<a href='https://drive.google.com/drive/u/0/folders/1DRLNKcnzpPKfFGRvS3ilm0P1M0ziGcPL'>check out here</a>
+<a href='https://github.com/paulohlaraujo/files/blob/2c7a224113595b198dd7183a994fe108151cd6af/S&OP%20model.xlsx'>check out here</a>
 
 ### Dataviz projects:
 
