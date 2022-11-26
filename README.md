@@ -30,7 +30,7 @@ e) **S&OP project** -->
 ### Dataviz projects:
 
 <span style="color:gray"> d) PowerBI project | Freight dashboard --> </span>
-<a href='https://github.com/paulohlaraujo/files/blob/6cc8adcf03c5f34b86c08f3062bb61dbb9e5b354/freight_data.pbix')>check out here</a>
+<a href='https://github.com/paulohlaraujo/files/blob/6cc8adcf03c5f34b86c08f3062bb61dbb9e5b354/freight_data.pbix'>check out here</a>
 
 ### Excel projects:
 
