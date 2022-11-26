@@ -31,3 +31,9 @@ e) **S&OP project** -->
 
 <span style="color:gray"> d) PowerBI project --> </span>
 <a href='https://drive.google.com/drive/u/0/folders/1Vk7mr6YZ9GpBZKIppahyT-MdYVAChA1V'>check out here</a>
+
+### Excel projects:
+
+<span style="color:gray"> d) Inventory map report --> </span>
+<a href='https://github.com/paulohlaraujo/files/blob/64a6b9904478a01157a8993b47759a9dd49da2f4/weekly_report.xlsx'>check out here</a>
+
