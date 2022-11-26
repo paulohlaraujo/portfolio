@@ -21,8 +21,8 @@ b) Exploratory analysis to retail business -->
 c) Exploratory analysis (Montreal Bike) -->
 <a href="https://github.com/paulohlaraujo/python/blob/32a08f65f81ea89b982ccb288435b3d660f3f48e/project_4.ipynb">check out here</a>
 
-d) **VBA project** -->
-<a href='https://drive.google.com/drive/u/0/folders/1c4MQbII9dfXGuL81rXL9UjbvK6WM0qey'>check out here</a>
+d) **VBA project** | bill conciliation sheet-->
+<a href='https://github.com/paulohlaraujo/files/blob/c88fde61f2d67a4d8b94eda749060159e7c53361/bill_conciliation.xlsm'>check out here</a>
 
 e) **S&OP project** -->
 <a href='https://drive.google.com/drive/u/0/folders/1DRLNKcnzpPKfFGRvS3ilm0P1M0ziGcPL'>check out here</a>
