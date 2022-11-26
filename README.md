@@ -21,22 +21,22 @@ b) Exploratory analysis to retail business -->
 c) Exploratory analysis (Montreal Bike) -->
 <a href="https://github.com/paulohlaraujo/python/blob/32a08f65f81ea89b982ccb288435b3d660f3f48e/project_4.ipynb">check out here</a>
 
-d) **VBA project** | bill conciliation sheet-->
-<a href='https://github.com/paulohlaraujo/files/blob/c88fde61f2d67a4d8b94eda749060159e7c53361/bill_conciliation.xlsm'>check out here</a>
-
-e) **S&OP project** -->
+d) **S&OP project** -->
 <a href='https://github.com/paulohlaraujo/files/blob/2c7a224113595b198dd7183a994fe108151cd6af/S&OP%20model.xlsx'>check out here</a>
 
 ### Dataviz projects:
 
-<span style="color:gray"> d) PowerBI project | Freight track--> </span>
+a) PowerBI project | Freight track-->
 <a href='https://github.com/paulohlaraujo/files/blob/6cc8adcf03c5f34b86c08f3062bb61dbb9e5b354/freight_data.pbix'>check out here</a>
 
-<span style="color:gray"> d) PowerBI project | Freight cost--> </span>
+b) PowerBI project | Freight cost-->
 <a href='https://github.com/paulohlaraujo/files/blob/d1498061e4a62145dfebf018d2889d1597011269/freight_data.pbix'>check out here</a>
 
 ### Excel projects:
 
-<span style="color:gray"> d) Inventory map report --> </span>
+a) Inventory map report --> </span>
 <a href='https://github.com/paulohlaraujo/files/blob/64a6b9904478a01157a8993b47759a9dd49da2f4/weekly_report.xlsx'>check out here</a>
+
+b) **VBA project** | bill conciliation sheet-->
+<a href='https://github.com/paulohlaraujo/files/blob/c88fde61f2d67a4d8b94eda749060159e7c53361/bill_conciliation.xlsm'>check out here</a>
 
