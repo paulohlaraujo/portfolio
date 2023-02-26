@@ -37,7 +37,7 @@ b) PowerBI project | Freight cost-->
 a) Inventory map report --> </span>
 <a href='https://github.com/paulohlaraujo/files/blob/b88572b395bbe937b8156cdf12768004af458620/weekly_report.xlsx'>check it out here</a>
 <p>The dashboard is built using pivottable and slices. Based on dataset, it's possible to analyse the inventory evolution per week, slicing per category, subcategory, plant, warehouse, group of materials, stock status and type of procurament.</p> 
-<img src="https://github.com/paulohlaraujo/files/blob/6d89b9f7c97b24e76665aed0123be6a65be9d51d/dash%20weekly%20report.jpg" width="400" height="200" />
+<img src="https://github.com/paulohlaraujo/files/blob/6d89b9f7c97b24e76665aed0123be6a65be9d51d/dash%20weekly%20report.jpg" width="650" height="300" />
 
 b) VBA project | bill conciliation sheet-->
 <a href='https://github.com/paulohlaraujo/files/blob/c88fde61f2d67a4d8b94eda749060159e7c53361/bill_conciliation.xlsm'>check it out here</a>
