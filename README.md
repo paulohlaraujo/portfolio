@@ -28,9 +28,11 @@ d) S&OP project -->
 
 a) PowerBI project | Freight track-->
 <a href='https://github.com/paulohlaraujo/files/blob/6cc8adcf03c5f34b86c08f3062bb61dbb9e5b354/freight_data.pbix' target="blank">check it out here</a>
+<img src="https://github.com/paulohlaraujo/files/blob/b3314f3632a513e7219c1397263db581ce1b502d/powerbi_dash.jpg" width="650" height="300" />
 
 b) PowerBI project | Freight cost-->
 <a href='https://github.com/paulohlaraujo/files/blob/d1498061e4a62145dfebf018d2889d1597011269/freight_data.pbix' target="blank">check it out here</a>
+<img src="https://github.com/paulohlaraujo/files/blob/b3314f3632a513e7219c1397263db581ce1b502d/powerbi_freight.jpg" width="650" height="300" />
 
 ### Excel projects:
 
