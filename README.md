@@ -21,9 +21,6 @@ b) Exploratory analysis to retail business -->
 c) Exploratory analysis (Montreal Bike) -->
 <a href="https://github.com/paulohlaraujo/python/blob/32a08f65f81ea89b982ccb288435b3d660f3f48e/project_4.ipynb" target="blank">check it out here</a>
 
-d) S&OP project -->
-<a href='https://github.com/paulohlaraujo/files/blob/2c7a224113595b198dd7183a994fe108151cd6af/S&OP%20model.xlsx' target="blank">check it out here</a>
-
 ### Dataviz projects:
 
 a) PowerBI project | Freight track-->
@@ -43,4 +40,9 @@ a) Inventory map report --> </span>
 
 b) VBA project | bill conciliation sheet-->
 <a href='https://github.com/paulohlaraujo/files/blob/c88fde61f2d67a4d8b94eda749060159e7c53361/bill_conciliation.xlsm' target="blank">check it out here</a>
+<img src="https://github.com/paulohlaraujo/files/blob/7c78928a60ffca1eff2d3317d3ef6b7338a2e2b2/conciliation.jpg" width="650" height="300" />
+
+c) S&OP project -->
+<a href='https://github.com/paulohlaraujo/files/blob/2c7a224113595b198dd7183a994fe108151cd6af/S&OP%20model.xlsx' target="blank">check it out here</a>
+<img src="https://github.com/paulohlaraujo/files/blob/8e3935121020fe41b78856ffe124af89018d59f7/sop.jpg" width="650" height="300" />
 
