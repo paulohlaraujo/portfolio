@@ -35,7 +35,7 @@ b) PowerBI project | Freight cost-->
 ### Excel projects:
 
 a) Inventory map report --> </span>
-<a href='https://github.com/paulohlaraujo/files/blob/64a6b9904478a01157a8993b47759a9dd49da2f4/weekly_report.xlsx'>check it out here</a>
+<a href='https://github.com/paulohlaraujo/files/blob/b88572b395bbe937b8156cdf12768004af458620/weekly_report.xlsx'>check it out here</a>
 
 b) VBA project | bill conciliation sheet-->
 <a href='https://github.com/paulohlaraujo/files/blob/c88fde61f2d67a4d8b94eda749060159e7c53361/bill_conciliation.xlsm'>check it out here</a>
