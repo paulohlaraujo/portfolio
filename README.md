@@ -44,5 +44,6 @@ b) VBA project | bill conciliation sheet-->
 
 c) S&OP project -->
 <a href='https://github.com/paulohlaraujo/files/blob/2c7a224113595b198dd7183a994fe108151cd6af/S&OP%20model.xlsx' target="blank">check it out here</a>
+
 <img src="https://github.com/paulohlaraujo/files/blob/8e3935121020fe41b78856ffe124af89018d59f7/sop.jpg" width="650" height="300" />
 
