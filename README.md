@@ -1,7 +1,7 @@
 ## Paulo Araujo [Data Analyst]
 
-Hey there! My name is Paulo Araujo, data analyst and logistics specialist with more than 17 years of experience in that field.
-Now taking my first steps into this new challenge in a consist and perseverient pace.
+Dear all, my name is Paulo Araujo, data analyst and logistics specialist. As logistics specialist I'm more than 17 years of experience in that field.
+Now taking my first steps into data analyst in a consist and perseverient pace, aggregating all my background in this new challenge.
 
 Here you'll find out some of my projects I have been developing. Evidently all dashboards and scripts are running here with unreal dataset, for confident reasons, to some of them that was really applied in the companies that I worked in. That last ones it'll be remarked with bold.
 
@@ -35,6 +35,7 @@ b) PowerBI project | Freight cost-->
 
 a) Inventory map report --> </span>
 <a href='https://github.com/paulohlaraujo/files/blob/b88572b395bbe937b8156cdf12768004af458620/weekly_report.xlsx' target="blank">check it out here</a>
+
 <p>The dashboard is built using pivottable and slices. Based on dataset, it's possible to analyse the inventory evolution per week, slicing per category, subcategory, plant, warehouse, group of materials, stock status and type of procurament.</p> 
 <img src="https://github.com/paulohlaraujo/files/blob/6d89b9f7c97b24e76665aed0123be6a65be9d51d/dash%20weekly%20report.jpg" width="650" height="300" />
 
@@ -46,4 +47,3 @@ c) S&OP project -->
 <a href='https://github.com/paulohlaraujo/files/blob/2c7a224113595b198dd7183a994fe108151cd6af/S&OP%20model.xlsx' target="blank">check it out here</a>
 
 <img src="https://github.com/paulohlaraujo/files/blob/8e3935121020fe41b78856ffe124af89018d59f7/sop.jpg" width="650" height="300" />
-
