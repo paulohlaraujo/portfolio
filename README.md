@@ -1,9 +1,7 @@
 ## Paulo Araujo [Data Analyst]
 
 Dear all, my name is Paulo Araujo, data analyst and logistics specialist. As logistics specialist I'm more than 17 years of experience in that field.
-Now taking my first steps into data analyst in a consist and perseverient pace, aggregating all my background in this new challenge.
-
-Here you'll find out some of my projects I have been developing. Evidently all dashboards and scripts are running here with unreal dataset, for confident reasons, to some of them that was really applied in the companies that I worked in. That last ones it'll be remarked with bold.
+Here you'll find out some of my projects I have been developing. Evidently all dashboards and scripts are running here with unreal dataset, for confident reasons, but all of them that was really applied in the companies that I worked on.
 
 ### Professional profiles:
 
