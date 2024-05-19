@@ -8,18 +8,12 @@ Here you'll find out some of my projects I have been developing. Evidently all d
 ### Professional profiles:
 
 <p>LinkedIin --> <a href='https://www.linkedin.com/in/paulo-ara%C3%BAjolog%C3%ADstica/' target="blank">profile</a></p>
-<p>Kaggle --> <a href='https://www.kaggle.com/paulohlaraujo' target="blank">profile</a></p>
 
-### Data analysis projects:
+### Inventory Data Analysis:
 
-a) Credit analysis project -->
-<a href="https://github.com/paulohlaraujo/credit-score" target="blank">check it out here</a>
-
-b) Exploratory analysis to retail business -->
-<a href="https://github.com/paulohlaraujo/python/blob/b0cfce3c75352a5b015abd21102295b08e75afeb/projeto2_analiseexploratoria.ipynb" target="blank">check it out here</a>
-
-c) Exploratory analysis (Montreal Bike) -->
-<a href="https://github.com/paulohlaraujo/python/blob/32a08f65f81ea89b982ccb288435b3d660f3f48e/project_4.ipynb" target="blank">check it out here</a>
+a) Stock Overview project -->
+<img src="https://github.com/paulohlaraujo/files/blob/40f1ea9eaff2e03c7d9798768eb12c47da9720af/stockoverviewFIG.png" width="650" height="300" />
+<a href="https://github.com/paulohlaraujo/files/blob/40f1ea9eaff2e03c7d9798768eb12c47da9720af/Stock%20Overview%20Analysis.xlsx" target="blank">check it out here</a>
 
 ### Dataviz projects:
 
