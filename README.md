@@ -1,4 +1,4 @@
-## Paulo Araujo [Data Analyst]
+## Paulo Araujo [Inventory Analyst]
 
 Dear all, my name is Paulo Araujo, inventory analyst, production scheduler, logistic manager and data analyst. As logistics specialist I have more than 17 years of experience in that field, specific in business such textile, chemical, package and, more recent, cocoa and chocolate.
 Here you'll find out detailed some of my projects that I have been developing along my journey. For ethical reasons, all dashboards and scripts are running based on unreal dataset, but all of them that were applied in my daily routine.
@@ -20,7 +20,7 @@ b) Excel project | Inventory map report -->
 <p>The dashboard is built using pivottable and slices. Based on dataset, it's possible to analyse the inventory evolution per week, slicing per category, subcategory, plant, warehouse, group of materials, stock status and type of procurament.</p> 
 <img src="https://github.com/paulohlaraujo/files/blob/6d89b9f7c97b24e76665aed0123be6a65be9d51d/dash%20weekly%20report.jpg" width="650" height="300" />
 
-### Role Manager warehouse::
+### Role Manager warehouse:
 
 a) PowerBI project | Freight track-->
 <a href='https://github.com/paulohlaraujo/files/blob/6cc8adcf03c5f34b86c08f3062bb61dbb9e5b354/freight_data.pbix' target="_blank">check it out here</a>
