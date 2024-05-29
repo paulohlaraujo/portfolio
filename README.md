@@ -14,7 +14,7 @@ a) Excel project | Stock Overview project -->
 <img src="https://github.com/paulohlaraujo/files/blob/40f1ea9eaff2e03c7d9798768eb12c47da9720af/stockoverviewFIG.png" width="650" height="300" /></a>
 <a href="https://github.com/paulohlaraujo/files/blob/40f1ea9eaff2e03c7d9798768eb12c47da9720af/Stock%20Overview%20Analysis.xlsx" target="blank">check it out here</a>
 
-b) Excel project | Inventory map report --> </span>
+b) Excel project | Inventory map report -->
 <a href='https://github.com/paulohlaraujo/files/blob/b88572b395bbe937b8156cdf12768004af458620/weekly_report.xlsx' target="blank">check it out here</a>
 
 <p>The dashboard is built using pivottable and slices. Based on dataset, it's possible to analyse the inventory evolution per week, slicing per category, subcategory, plant, warehouse, group of materials, stock status and type of procurament.</p> 
@@ -34,6 +34,6 @@ c) VBA project | bill conciliation sheet-->
 <a href='https://github.com/paulohlaraujo/files/blob/c88fde61f2d67a4d8b94eda749060159e7c53361/bill_conciliation.xlsm' target="blank">check it out here</a>
 <img src="https://github.com/paulohlaraujo/files/blob/7c78928a60ffca1eff2d3317d3ef6b7338a2e2b2/conciliation.jpg" width="650" height="300" />
 
-d) S&OP project -->
+d) Excel project | S&OP project -->
 <a href='https://github.com/paulohlaraujo/files/blob/2c7a224113595b198dd7183a994fe108151cd6af/S&OP%20model.xlsx' target="blank">check it out here</a>
 <img src="https://github.com/paulohlaraujo/files/blob/8e3935121020fe41b78856ffe124af89018d59f7/sop.jpg" width="650" height="300" />
