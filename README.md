@@ -12,7 +12,7 @@ Here you'll find out detailed some of my projects that I have been developing al
 a) Excel project | Stock Overview project -->
 <p>This project is an important tool offering to company's headers all data referring to stocks in one single table. It was possible due some steps, doing cross checks in different bases to bring the big picture of how accurate the stocks are against policies and main indicators. This file covering: sales, stocks per shelf life, forecast, production, purchases and orders sales. Metrics to measure risks of: aging, shortage and overstock. Metrics about: forecast accurace, BIAS, days on hand, stock policy accuracy and over forecast.</p> 
 <img src="https://github.com/paulohlaraujo/files/blob/40f1ea9eaff2e03c7d9798768eb12c47da9720af/stockoverviewFIG.png" width="650" height="300" /></a>
-<a href="https://github.com/paulohlaraujo/files/blob/40f1ea9eaff2e03c7d9798768eb12c47da9720af/Stock%20Overview%20Analysis.xlsx" target="_blank">check it out here</a>
+<a href="https://github.com/paulohlaraujo/files/blob/40f1ea9eaff2e03c7d9798768eb12c47da9720af/stockoverview.xlsx" download="stockoverview.xlsx">check it out here</a>
 
 b) Excel project | Inventory map report -->
 <a href='https://github.com/paulohlaraujo/files/blob/b88572b395bbe937b8156cdf12768004af458620/weekly_report.xlsx' target="_blank">check it out here</a>
