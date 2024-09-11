@@ -16,7 +16,7 @@ a) Excel project | Stock Overview project --> <a href="https://docs.google.com/s
 
 
 b) Excel project | Inventory map report -->
-<a href='https://github.com/paulohlaraujo/files/blob/b88572b395bbe937b8156cdf12768004af458620/weekly_report.xlsx' target="_blank">check it out here</a>
+<a href="https://docs.google.com/spreadsheets/d/1DFB-bpMFyJ34fwCafh59HYLTNfvA9tma/edit?usp=drive_link&ouid=104409686174188673006&rtpof=true&sd=true" target="_blank">check it out here</a>
 
 <p>The dashboard is built using pivottable and slices. Based on dataset, it's possible to analyse the inventory evolution per week, slicing per category, subcategory, plant, warehouse, group of materials, stock status and type of procurament.</p> 
 <img src="https://github.com/paulohlaraujo/files/blob/6d89b9f7c97b24e76665aed0123be6a65be9d51d/dash%20weekly%20report.jpg" width="650" height="300" />
