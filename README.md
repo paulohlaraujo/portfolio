@@ -24,17 +24,17 @@ b) Excel project | Inventory map report -->
 ### Role Manager warehouse:
 
 a) PowerBI project | Freight track-->
-<a href='https://github.com/paulohlaraujo/files/blob/6cc8adcf03c5f34b86c08f3062bb61dbb9e5b354/freight_data.pbix' target="_blank">check it out here</a>
+<a href="https://drive.google.com/file/d/1Fyhk6l-QO-lDlGFEeomt_fi7L5b4yGEf/view?usp=drive_link" target="_blank">check it out here</a>
 <img src="https://github.com/paulohlaraujo/files/blob/b3314f3632a513e7219c1397263db581ce1b502d/powerbi_dash.jpg" width="650" height="300" />
 
 b) PowerBI project | Freight cost-->
-<a href='https://github.com/paulohlaraujo/files/blob/d1498061e4a62145dfebf018d2889d1597011269/freight_data.pbix' target="_blank">check it out here</a>
+<a href="https://drive.google.com/file/d/1LFGmad7TGyN8hK6IPmYPx78lo4dhBVNm/view?usp=drive_link" target="_blank">check it out here</a>
 <img src="https://github.com/paulohlaraujo/files/blob/b3314f3632a513e7219c1397263db581ce1b502d/powerbi_freight.jpg" width="650" height="300" />
 
 c) VBA project | bill conciliation sheet-->
-<a href='https://github.com/paulohlaraujo/files/blob/c88fde61f2d67a4d8b94eda749060159e7c53361/bill_conciliation.xlsm' target="_blank">check it out here</a>
+<a href="https://docs.google.com/spreadsheets/d/1_pFXdPtZA_BjwU-Te1tLgxaukd5xA6w9/edit?usp=drive_link&ouid=104409686174188673006&rtpof=true&sd=true" target="_blank">check it out here</a>
 <img src="https://github.com/paulohlaraujo/files/blob/7c78928a60ffca1eff2d3317d3ef6b7338a2e2b2/conciliation.jpg" width="650" height="300" />
 
 d) Excel project | S&OP project -->
-<a href='https://github.com/paulohlaraujo/files/blob/2c7a224113595b198dd7183a994fe108151cd6af/S&OP%20model.xlsx' target="_blank">check it out here</a>
+<a href="https://docs.google.com/spreadsheets/d/1rEp95gUHeu7pE9H6Tp7Z29fjWkbM2Gu6/edit?usp=drive_link&ouid=104409686174188673006&rtpof=true&sd=true" target="_blank">check it out here</a>
 <img src="https://github.com/paulohlaraujo/files/blob/8e3935121020fe41b78856ffe124af89018d59f7/sop.jpg" width="650" height="300" />
