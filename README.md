@@ -23,7 +23,7 @@ b) Excel project | Inventory map report -->
 c) Excel +VBA | Stock policy analysis -->
 <a href="https://drive.google.com/file/d/1BUOtSnE7dGrTHypp1GqBEQwsUmO5ETtr/view?usp=sharing" target="_blank">check it out here</a>
 
-<p>The dashboard is built using pivottable and slices. Based on dataset, it's possible to analyse the inventory evolution per week, slicing per category, subcategory, plant, warehouse, group of materials, stock status and type of procurament.</p> 
+<p>This tool was developed based on statistics methods to calculate the targets to safety, cycle, average and maximum stocks to the business. Some assumptions and rules was applied to have at the end the general policies to manage level of stocks, slow movers, aging and covarege (DOH).</p> 
 <img src="https://github.com/paulohlaraujo/files/blob/main/stock%20policy.jpg" width="650" height="300" />
 
 
@@ -45,7 +45,7 @@ d) Excel project | S&OP project -->
 <a href="https://docs.google.com/spreadsheets/d/1rEp95gUHeu7pE9H6Tp7Z29fjWkbM2Gu6/edit?usp=drive_link&ouid=104409686174188673006&rtpof=true&sd=true" target="_blank">check it out here</a>
 <img src="https://github.com/paulohlaraujo/files/blob/8e3935121020fe41b78856ffe124af89018d59f7/sop.jpg" width="650" height="300" />
 
-### Positiuon: Customer Service Analyst and PCP Supervisor
+### Position: Customer Service Analyst and PCP Supervisor
 
 a) Key customer analyst -->
 <p>This role consist in manage all steps regarding to the release new packages to the key customer of the company. All cycle and pin points evolving operations and tactical activities were built and track by MS Project tool.
